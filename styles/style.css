@@ -405,7 +405,7 @@ p {
 }
 .opinions {
   background-color: #ffbe0b;
-  padding: 67px 400px;
+  padding: 67px 0;
 }
 .opinions p {
   color: #575757;
@@ -439,7 +439,7 @@ p {
   margin-top: 16px;
 }
 .footer {
-  padding: 89px 281px 103px 280px;
+  padding: 89px 0 103px;
 }
 .product-title {
   margin: 74px auto;
